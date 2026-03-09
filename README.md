@@ -21,7 +21,7 @@
       <li>NECO Registrations</li>
       <li>WAEC Registrations</li>
       <li>Post UTME Tutorial</li>
-      <li>Basic Senior School (SSS 1)</li>
+      <li>Basic Senior School secondary foundation (SSS 1)</li>
       <li><a href="#">About Us</a></li>
       <li><a href="#">Our Privacy and Policy</a></li>
     </ul>
