@@ -23,7 +23,7 @@
       <li>Post UTME Tutorial</li>
       <li>Basic Senior School secondary foundation (SSS 1)</li>
       <li><a href="#">About Us</a></li>
-      <li><a href="https://https://abdulqudusayomide17-star.github.io/Privacy-2/">Our Privacy and Policy</a></li>
+      <li><a href="https://abdulqudusayomide17-star.github.io/Privacy-2/">Our Privacy and Policy</a></li>
     </ul>
   </section>
 
